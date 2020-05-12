@@ -1,5 +1,6 @@
 ---
 title: Post with Header Image
+key: 2018-06-01-header-image
 tags: TeXt
 article_header:
   type: cover
