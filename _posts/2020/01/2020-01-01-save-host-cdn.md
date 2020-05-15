@@ -42,3 +42,60 @@ tags: save 省钱 云主机 CDN 优惠 域名 又拍云 滴滴云
 ![dl-waf4](https://up-img.yonghong.tech/pic/2020/05/dl-waf4.png)
 
 滴滴云联合全球顶级的CA机构，Symantec单域名0元1年，Geo Trust企业型单域名1520元1年，目前证书产品全线8折，立即购买。点击查看：[https://i.didiyun.com/2cKtIZJuiEW](https://i.didiyun.com/2cKtIZJuiEW)
+
+
+### 3. 阿里云 
+
+![15-15-20-aliyun-kjZGfS](https://up-img.yonghong.tech/pic/2020/05/15-15-20-aliyun-kjZGfS.png)
+
+上云必备：
+[直达地址 https://www.aliyun.com/activity/daily/cloud?userCode=7ayz7kwp](https://www.aliyun.com/activity/daily/cloud?userCode=7ayz7kwp)
+
+云小站：
+[直达地址 https://www.aliyun.com/minisite/goods?userCode=7ayz7kwp](https://www.aliyun.com/minisite/goods?userCode=7ayz7kwp)
+
+
+### 4. [搬瓦工](https://bwh88.net/aff.php?aff=35935)
+
+优惠码（2020-05-10）
+- BWH3HYATVBJW（优惠力度 6.25%）
+- BWH25AQH2CMQ（优惠力度 5.97%）
+- ireallyreadtheterms8（优惠力度 5.5%）
+- BWH2OJA9WE0O（优惠力度 5.39%）
+
+目前最推荐的搬瓦工方案如下所示。第一个是 CN2 方案，是目前最便宜的方案（$49.99/年）。
+
+CN2 常规版 20GB
+- CPU：1 核
+- 内存：1024 MB
+- 硬盘：20 GB SSD
+- 流量：1000 GB/月
+- 带宽：1 Gbps
+- 机房：DC8 CN2、DC3 CN2
+- 迁移：可迁移机房，流量不变
+- 价格：49.99 美元/年
+
+[直达地址一](https://bwh88.net/aff.php?aff=35935&pid=57) 
+[直达地址二](https://bandwagonhost.com/aff.php?aff=35935&pid=57)
+
+第二个是 CN2 GIA-E 方案，是目前性价比最高的方案，但是价格稍贵，需要 $169.99/年。
+
+CN2 GIA-E 常规版 20GB
+- CPU：2 核
+- 内存：1024 MB
+- 硬盘：20 GB SSD
+- 流量：1000 GB/月
+- 带宽：2.5 Gbps
+- 机房：DC6 CN2 GIA-E、DC9 CN2 GIA
+- 迁移：可迁移机房，流量不变
+- 价格：49.99 美元/季度，169.99 美元/年
+
+[直达地址一](https://bwh88.net/aff.php?aff=35935&pid=87) 
+[直达地址二](https://bandwagonhost.com/aff.php?aff=35935&pid=87)
+
+### 5. Just My Socks
+
+There are three different plans available, 500GB/1000GB/5000GB monthly data transfer on 1.0, 2.5 and 5.0 Gibabit links (CN2 GIA), located in Los Angeles.
+
+[直达地址一](https://justmysocks.net/members/aff.php?aff=5686)
+[直达地址二](https://justmysocks1.net/members/aff.php?aff=5686)
