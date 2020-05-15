@@ -2,6 +2,7 @@
 title: 云主机、CDN、域名优惠通道
 key: 2020-01-01-save-host-cdn
 tags: save 省钱 云主机 CDN 优惠 域名 又拍云 滴滴云
+excerpt: 云主机、云存储、CDN、内容分发网络、域名解析优惠，又拍云、七牛云、阿里云、腾讯云、滴滴云、京东云、华为云、青云Cloud、搬瓦工。
 ---
 
 ### 1. [又拍云](https://console.upyun.com/register/?invite=B1kDunwcL)
