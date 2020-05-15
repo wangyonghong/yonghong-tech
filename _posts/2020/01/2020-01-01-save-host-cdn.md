@@ -1,7 +1,7 @@
 ---
-title: 云主机、CDN 优惠通道
+title: 云主机、CDN、域名优惠通道
 key: 2020-01-01-save-host-cdn
-tags: save 省钱 云主机 CDN 优惠
+tags: save 省钱 云主机 CDN 优惠 域名 又拍云 滴滴云
 ---
 
 ### 1. [又拍云](https://console.upyun.com/register/?invite=B1kDunwcL)
@@ -33,3 +33,12 @@ tags: save 省钱 云主机 CDN 优惠
 
 [点我注册 - https://console.upyun.com/register/?invite=B1kDunwcL](https://console.upyun.com/register/?invite=B1kDunwcL)
 
+### 2. [滴滴云](https://www.didiyun.com/)
+
+![dl-ent4](https://up-img.yonghong.tech/pic/2020/05/dl-ent4.png)
+
+滴滴云助力中小企业复产复工，企业新用户上云专属机型1年5折，2年4.5折。活动截止5月31日，点击链接立即抢购。点击查看：[https://i.didiyun.com/2cKtIZJuiEW](https://i.didiyun.com/2cKtIZJuiEW)
+
+![dl-waf4](https://up-img.yonghong.tech/pic/2020/05/dl-waf4.png)
+
+滴滴云联合全球顶级的CA机构，Symantec单域名0元1年，Geo Trust企业型单域名1520元1年，目前证书产品全线8折，立即购买。点击查看：[https://i.didiyun.com/2cKtIZJuiEW](https://i.didiyun.com/2cKtIZJuiEW)
