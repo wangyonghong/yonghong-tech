@@ -1,7 +1,8 @@
 ---
 title: Linux/macOS 如何进行时间戳转换？
 key: 2020-05-12-timestamp
-tags: timestamp
+tags:
+- timestamp
 ---
 
 ## 时间戳转换网站
@@ -50,8 +51,3 @@ date +%s
 ```shell
 date +%s
 ```
-
-
-
-
-

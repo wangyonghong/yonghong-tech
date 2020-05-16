@@ -1,7 +1,9 @@
 ---
 title: Kubernetes 调整 nodePort 端口范围
 key: 2020-05-12-kubernetes-ports
-tags: Kubernetes k8s
+tags:
+- Kubernetes
+- k8s
 ---
 
 ### 问题

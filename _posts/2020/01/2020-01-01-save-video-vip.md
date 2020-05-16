@@ -1,7 +1,14 @@
 ---
 title: 腾讯视频、优酷、爱奇艺、芒果TV VIP 优惠通道
 key: 2020-01-01-save-video-vip
-tags: save 省钱 腾讯视频 爱奇艺 优酷 芒果TV VIP
+tags:
+- save
+- 省钱
+- 腾讯视频
+- 爱奇艺
+- 优酷
+- 芒果TV
+- VIP
 excerpt: 腾讯视频、爱奇艺、优酷、芒果VIP优惠通道，腾讯视频VIP、爱奇艺VIP、优酷VIP、芒果VIP。
 ---
 
