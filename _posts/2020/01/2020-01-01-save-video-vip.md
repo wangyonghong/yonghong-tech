@@ -9,12 +9,14 @@ tags:
 - 优酷
 - 芒果TV
 - VIP
-excerpt: 腾讯视频、爱奇艺、优酷、芒果VIP优惠通道，腾讯视频VIP、爱奇艺VIP、优酷VIP、芒果VIP。
+description: 腾讯视频、爱奇艺、优酷、芒果VIP优惠通道，腾讯视频VIP、爱奇艺VIP、优酷VIP、芒果VIP。
 ---
 
 ### 1. 腾讯视频 VIP 
 
 | ![15-20-28-IMG_0496-3izbha](https://up-img.yonghong.tech/pic/2020/05/15-20-28-IMG_0496-3izbha.PNG) | ![15-20-28-IMG_0494-4Rkt8E](https://up-img.yonghong.tech/pic/2020/05/15-20-28-IMG_0494-4Rkt8E.PNG) | ![15-20-29-IMG_0495-svggvI](https://up-img.yonghong.tech/pic/2020/05/15-20-29-IMG_0495-svggvI.PNG) |
+
+<!--more-->
 
 ### 2. 爱奇艺视频 VIP
 

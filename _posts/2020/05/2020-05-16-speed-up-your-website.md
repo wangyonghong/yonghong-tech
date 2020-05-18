@@ -6,7 +6,7 @@ tags:
 - 静态网站
 - 又拍云
 - jekyll
-excerpt: 本文描述了如何使用又拍云加速静态网站，以使用 jekyll 搭建的本站为例，从静态资源到全站加速，一步一步提升网站的访问速度。
+description: 本文描述了如何使用又拍云加速静态网站，以使用 jekyll 搭建的本站为例，从静态资源到全站加速，一步一步提升网站的访问速度。
 ---
 
 > 本文参加又拍云原创技术征文活动 [地址一](https://www.upyun.com/tech/article/551/%E6%9C%89%E5%A5%96%E5%BE%81%E6%96%87%EF%BD%9C%E5%8F%88%E6%8B%8D%E4%BA%91%E5%8E%9F%E5%88%9B%E6%8A%80%E6%9C%AF%E5%BE%81%E6%96%87%E5%A4%A7%E8%B5%9B%EF%BC%8CFILCO%E9%94%AE%E7%9B%98%E3%80%81%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF%E3%80%81%E4%BB%A3%E9%87%91%E5%88%B8%E7%AD%89%E4%BD%A0%E6%9D%A5%E6%8B%BF.html) [地址二](https://mp.weixin.qq.com/s/NmK93WxEZ02b9saND0OAsg)
@@ -16,6 +16,8 @@ excerpt: 本文描述了如何使用又拍云加速静态网站，以使用 jeky
 目前很多网站都提供了jekyll网站的托管服务，比如最知名的 [GitHub](https://github.com/)，还有 [GitLab](https://gitlab.com/)，以及国内的 [腾讯云 - Coding](https://coding.net/)、[开源中国 - 码云gitee](https://gitee.com/) 都可以部署jekyll静态网站。
 
 相比之下国外的GitHub服务比较稳定，GitLab我很少用不太了解，但是访问速度就很慢了。国内的码云和Coding目前来看也是越来越稳定的，但是仍然有时候访问比较慢。
+
+<!--more-->
 
 由于GitHub本身访问比较慢，所以我把代码仓库建在了Coding上，使用Coding的静态网站托管服务。
 

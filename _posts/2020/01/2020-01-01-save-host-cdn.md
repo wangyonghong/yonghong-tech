@@ -10,7 +10,7 @@ tags:
 - 域名
 - 又拍云
 - 滴滴云
-excerpt: 云主机、云存储、CDN、内容分发网络、域名解析优惠，又拍云、七牛云、阿里云、腾讯云、滴滴云、京东云、华为云、青云Cloud、搬瓦工。
+description: 云主机、云存储、CDN、内容分发网络、域名解析优惠，又拍云、七牛云、阿里云、腾讯云、滴滴云、京东云、华为云、青云Cloud、搬瓦工。
 ---
 
 ### 1. [又拍云](https://console.upyun.com/register/?invite=B1kDunwcL)
