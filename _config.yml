@@ -183,6 +183,11 @@ markdown    : kramdown
 highlighter : rouge
 permalink   : pretty
 
+collections:
+  copy:
+    output: true
+    permalink: /copy/:year/:month/:title/
+
 exclude:
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
@@ -205,6 +210,18 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: article
+      sharing: true
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_subscribe: true
+      pageview: true
+  - scope:
+      path: ""
+      type: copy
     values:
       layout: article
       sharing: true

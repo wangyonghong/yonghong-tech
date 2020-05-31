@@ -1,0 +1,10 @@
+---
+layout: article
+comment: false
+articles:
+  excerpt_type: html
+---
+
+{% for post in site.copy %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+{% endfor %}
