@@ -1,6 +1,8 @@
 ---
 title: "Covid-19: Where am I from? "
 key: 2020-05-20-covid-19-where-am-i-from
+permalink: /2020/05/20/covid-19-where-am-i-from/
+date: 2020-05-20
 tags:
 - 漫画
 excerpt: '<div style="text-align: center;"><img src="https://up-img.yonghong.tech/pic/2020/05/20-22-20-截屏2020-05-20%20下午10.20.24-SN3p5n.png" alt="Covid-19: Where am I from?" width="300px">'
