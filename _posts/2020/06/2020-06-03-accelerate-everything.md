@@ -2,7 +2,7 @@
 title: 加速一切 - 配置国内镜像 - Ubuntu apt、Debian apt、CentOS yum、Alpine apk、macOS brew、Docker、Kubernetes、Python Conda、Maven、Gradle、npm、Ruby
 key: 2020-06-03-accelerate-everything
 permalink: /article/accelerate-everything
-date: 2020-06-06
+date: 2020-06-03
 tags:
 - 阿里云
 - Aliyun
