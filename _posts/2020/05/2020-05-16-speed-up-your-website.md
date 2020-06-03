@@ -1,7 +1,7 @@
 ---
 title: 使用又拍云加速你的静态网站
 key: 2020-05-16-speed-up-your-website
-permalink: /2020/05/16/speed-up-your-website/
+permalink: /article/speed-up-your-website/
 date: 2020-06-01
 tags:
 - 加速
