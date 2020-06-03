@@ -26,54 +26,29 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Earn
+      en      : &EN       LeetCode
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  赚
+      zh-Hans : &ZH_HANS  LeetCode
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  賺
+      zh-Hant : &ZH_HANT  LeetCode
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       돈 을 벌다
+      ko      : &KO       LeetCode
       ko-KR   : *KO
-      fr      : &FR       Gagner
+      fr      : &FR       LeetCode
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive/?tag=earn
-    
-  - titles:
-      # @start locale config
-      en      : &EN       Save
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  省
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  省
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       돈 을 절약 하 다
-      ko-KR   : *KO
-      fr      : &FR       économiser
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /archive/?tag=save
-    
+    url: /archive/?tag=leetcode
+ 
   - titles:
       # @start locale config
       en      : &EN       Weekly
