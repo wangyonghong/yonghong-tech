@@ -1,6 +1,7 @@
 ---
 title: 云主机、CDN、域名优惠通道
-key: 2020-01-01-save-host-cdn
+key: article-save-host-cdn
+permalink: /article/save-host-cdn
 tags:
 - save
 - 省钱
@@ -11,11 +12,18 @@ tags:
 - 又拍云
 - 滴滴云
 description: 云主机、云存储、CDN、内容分发网络、域名解析优惠，又拍云、七牛云、阿里云、腾讯云、滴滴云、京东云、华为云、青云Cloud、搬瓦工。
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: https://up-img.yonghong.tech/pic/2020/05/tLmiCe.jpg
 ---
 
 ### 1. [又拍云](https://console.upyun.com/register/?invite=B1kDunwcL)
 
-![tLmiCe](https://up-img.yonghong.tech/pic/2020/05/tLmiCe.jpg)
+<!-- ![tLmiCe](https://up-img.yonghong.tech/pic/2020/05/tLmiCe.jpg) -->
 
 ![U5Vnkp](https://up-img.yonghong.tech/pic/2020/05/U5Vnkp.jpg)
 
