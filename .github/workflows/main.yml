@@ -23,5 +23,5 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run empty commit
-      run: git commit --allow-empty -m 'Trigger Pages'
+      run: git pull && git config --global user.email 'yonghongwang@163.com' && git config --global user.name 'wangyonghong' &&  git commit --allow-empty -m 'Trigger Pages' && git push -u origin master
 
